@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-align: center;
+    margin: 8px;
+}
+
+section {
+   /* outline: 1px solid black;*/
+    width: 70%;
+    margin: 0 auto;    
+}
+
+.caja {
+    /*outline: 1px solid yellow;*/
+    width: 350px;
+    padding: 15px;
+    box-sizing: border-box;
+    display: inline-block;
+    
+}
+
+ img {
+     /*max-height, se refiere a que la imagen aparesca en 100 % por mas q su elemneto contenedor se disminuya*/
+     max-height: 100%
+ }
+ 
+ .caja div {
+    
+    position: relative; 
+    top: -40px;
+    float: right;
+    right: 50px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-shadow: -2px -2px 1px #000
+    
+
+    
+     
+ }
