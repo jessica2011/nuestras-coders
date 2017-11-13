@@ -57,3 +57,8 @@ select {
 select:focus {
     outline: none;
 }
+
+img:hover {
+    border-radius: 100%;
+    transition: 0.8s;
+}
