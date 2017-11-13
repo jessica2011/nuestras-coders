@@ -1,6 +1,6 @@
 ## Nuestras coders
 
-Replicae el siguiente esquema: 
+Replica el siguiente esquema: 
 
 ![Nuestras Coders](assets/images/img-nuestras-coders.png)
 
